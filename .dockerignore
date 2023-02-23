@@ -1,0 +1,5 @@
+.git*
+.hadolint.yaml
+*.md
+LICENSE
+scripts/
